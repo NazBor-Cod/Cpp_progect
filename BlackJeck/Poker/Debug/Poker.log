@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Poker.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Skipping... (no relevant changes detected)
+  Player.cpp
+  Main.cpp
+  CardDesk.cpp
+  Card.cpp
+  Poker.vcxproj -> E:\Шаг\OOP C++\project C++\BlackJeck\Debug\BlackJeck.exe
